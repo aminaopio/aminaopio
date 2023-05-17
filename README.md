@@ -11,7 +11,7 @@ Some technologies I enjoy working with include AWS, ReactJS, Figma, <br> Adobe P
 **Things I've done in the past:**
   + Worked as a research intern for the National Science Foundation
      + Focused on object detection algorithms for autonomous vehicles
-  + Won first place for my senior design day capstone project
+  + Won first place for my senior design day [capstone project](https://github.com/aminaopio/Meet-Me-Halfway)
   + Served as event coordinator for a multicultural organization on campus
 
 Feel free to reach out if you have any questions!
