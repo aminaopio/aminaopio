@@ -1,5 +1,9 @@
 ### Hi, I'm Amina!
---
+___
+I am:
+
+
+Things I've done in the past:
 <!--
 **aminaopio/aminaopio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
