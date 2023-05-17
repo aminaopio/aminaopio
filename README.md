@@ -4,7 +4,7 @@ Some technologies I enjoy working with include AWS, ReactJS, Figma, Adobe Photos
 
 **I am also:**
   + A University of North Texas graduate (as of May 2023):
-    + Bachelor of Science degree in Computer Science
+    + Bachelor of Science in Computer Science
     + Associate of Arts in International Studies
 
 **Things I've done in the past:**
