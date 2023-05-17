@@ -1,5 +1,4 @@
 ## Hi, I'm Amina! :octocat: 
-___
 ### I'm a lifelong learner and aspiring software engineer with a passion for creativity and community. 
 Some technologies I enjoy working with include AWS, ReactJS, Figma, <br> Adobe Photoshop, etc. I am an active member of [AnitaB.org](https://anitab.org/) and other related orgs.    
 
