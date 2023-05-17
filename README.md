@@ -1,20 +1,23 @@
-### Hi, I'm Amina!
+## Hi, I'm Amina! :octocat: 
 ___
-I am:
+### I'm a lifelong learner and aspiring software engineer <br> with a passion for creativity and community. 
+Some technologies I enjoy working with include AWS, ReactJS, Figma, <br> Adobe Photoshop, etc. I am an active member of [AnitaB.org](https://anitab.org/) and other related orgs.    
 
+**I am also:**
+  + A University of North Texas graduate (as of May 2023):
+    + Bachelor of Science degree in Computer Science
+    + Associate of Arts in International Studies
 
-Things I've done in the past:
-<!--
-**aminaopio/aminaopio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Things I've done in the past:**
+  + Worked as a research intern for the National Science Foundation
+     + Focused on object detection algorithms for autonomous vehicles
+  + Won first place for my senior design day capstone project
+  + Served as event coordinator for a multicultural organization on campus
 
-Here are some ideas to get you started:
+Feel free to reach out if you have any questions!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ **Website:** In-progress <br>
+ **LinkedIn:** [/in/aminaopio](https://www.linkedin.com/in/aminaopio/) <br>
+ **Email:** aminaopio@gmail.com <br>
+ **Github:** [@aminaopio](https://github.com/aminaopio), but you already knew that! 😃
+
