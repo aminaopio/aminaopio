@@ -11,7 +11,7 @@ Some technologies I enjoy working with include AWS (currently studying for the D
   + Worked as a research intern for the National Science Foundation
      + Focused on object detection algorithms for autonomous vehicles
   + Won first place for my senior design day [capstone project](https://github.com/aminaopio/Meet-Me-Halfway)
-  + Served as event coordinator for a multicultural organization on campus
+  + Served as event coordinator for multicultural organization [World Echoes](https://unt.campuslabs.com/engage/organization/world-echoes)
 
 Feel free to reach out if you have any questions!
 
