@@ -17,6 +17,6 @@ Feel free to reach out if you have any questions!
 
  **Website:** [www.aminaopio.co](https://aminaopio.co) <br>
  **LinkedIn:** [/in/aminaopio](https://www.linkedin.com/in/aminaopio/) <br>
- **Email:** aminaopio@gmail.com <br>
+ **E-mail:** aminaopio@gmail.com <br>
  **Github:** [@aminaopio](https://github.com/aminaopio), but you already knew that! 😃
 
