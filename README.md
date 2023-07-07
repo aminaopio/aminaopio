@@ -5,7 +5,7 @@ Some technologies I enjoy working with include AWS (currently studying for the D
 **I am also:**
   + A University of North Texas graduate (as of July 2023) 📚:
     + Bachelor of Science in Computer Science
-    + Associate of Arts in International Studies
+    + Minor of Arts in International Studies
 
 **Things I've done in the past:**
   + Worked as a research intern for the National Science Foundation:
