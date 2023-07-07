@@ -3,7 +3,7 @@
 Some technologies I enjoy working with include AWS (currently studying for the Developer Associate Certification), <br> Xcode, ReactJS, Figma, Flutter, Adobe Photoshop, etc. I am an active member of [AnitaB.org](https://anitab.org/) and other related orgs.    
 
 **I am also:**
-  + A University of North Texas graduate (as of May 2023) 📚:
+  + A University of North Texas graduate (as of July 2023) 📚:
     + Bachelor of Science in Computer Science
     + Associate of Arts in International Studies
 
