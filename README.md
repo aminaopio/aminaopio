@@ -1,6 +1,6 @@
 ## Hi, I'm Amina! :octocat: 
 ### I'm a lifelong learner and aspiring software engineer with a passion for creativity and community. 
-Some technologies I enjoy working with include AWS (currently studying for the Developer Associate Certification), <br> Xcode, React.js, Figma, Flutter, Adobe Photoshop, etc. I am an active member of [AnitaB.org](https://anitab.org/) and other related orgs.    
+Some technologies/languages I enjoy working with include Python, JavaScript, AWS (currently studying for the Cloud Practitioner Certification), <br> Xcode, React.js, Figma, Flutter, Adobe Photoshop, etc. I am an active member of [AnitaB.org](https://anitab.org/) and other related orgs.    
 
 **I am also:**
   + A University of North Texas graduate (as of July 2023) 📚:
