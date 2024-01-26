@@ -3,7 +3,7 @@
 Some technologies/languages I enjoy working with include Python, JavaScript, AWS (currently studying for the Cloud Practitioner <br> Certification), Xcode, React.js, Figma, Flutter, Adobe Photoshop, etc. I am an active member of [AnitaB.org](https://anitab.org/), [Rewriting The Code (RTC)](https://rewritingthecode.org/), and other related orgs.    
 
 **I am also:**
-  + A University of North Texas graduate (as of July 2023) 📚:
+  + A University of North Texas graduate (as of August 2023) 📚:
     + Bachelor of Science in Computer Science
     + Minor of Arts in International Studies
 
