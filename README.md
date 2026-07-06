@@ -1,6 +1,6 @@
 ## Hi, I'm Amina! :octocat: 
 ### I'm a lifelong learner and aspiring software engineer with a passion for creativity and community. 
-Some technologies/languages I enjoy working with include JavaScript, C++, AWS (currently studying for the Developer Associate <br> Certification), Xcode, React.js, Figma, Flutter, Adobe Photoshop, etc. I am an active member of [AnitaB.org](https://anitab.org/), [Rewriting The Code (RTC)](https://rewritingthecode.org/), and other related orgs.    
+Some technologies/languages I enjoy working with include JavaScript, C++, AWS (currently studying for the Developer Associate <br> Certification), Xcode, React.js, Figma, Flutter, Adobe Photoshop, etc. I am an active member of [CodePath](https://www.codepath.org/), [AnitaB.org](https://anitab.org/), [Rewriting The Code (RTC)](https://rewritingthecode.org/), and other related orgs.    
 
 **I am also:**
   + A University of North Texas graduate (as of August 2023) 📚:
